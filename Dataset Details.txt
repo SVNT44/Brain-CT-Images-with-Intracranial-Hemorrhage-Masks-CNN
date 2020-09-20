@@ -1,0 +1,13 @@
+Context
+Intracranial hemorrhage, bleeding that occurs inside the cranium, is a serious health problem requiring rapid and often intensive medical treatment. For example, intracranial hemorrhages account for approximately 10% of strokes in the U.S., where stroke is the fifth-leading cause of death. Identifying the location and type of any hemorrhage present is a critical step in treating the patient.
+Diagnosis requires an urgent procedure. When a patient shows acute neurological symptoms such as severe headache or loss of consciousness, highly trained specialists review medical images of the patient’s cranium to look for the presence, location and type of hemorrhage. The process is complicated and often time consuming.
+
+~ Quote from the Kaggle RSNA Intracranial Hemorrhage Detection Competition overview
+
+Content
+This dataset consists of head CT (Computed Thomography) images in jpg format. There are 2500 brain window images and 2500 bone window images, for 82 patients. There are approximately 30 image slices per patient. 318 images have associated intracranial image masks. Also included are csv files containing hemorrhage diagnosis data and patient data.
+This is version 1.0.0 of this dataset. A full description of this dataset as well as updated versions can be found here:
+
+=================================================================
+https://www.kaggle.com/vbookshelf/computed-tomography-ct-images
+=================================================================
